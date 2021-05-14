@@ -6,7 +6,7 @@ Automatically downloads the artifact and resource files for a default FiveM serv
 1. Download [NodeJS](https://nodejs.org/en/)
 2. Extract the files to a folder
 3. Open up a command prompt and navigate to that folder
-4. Type "npm i" and let it do its black magic thing
+4. Type `npm i` and let it do its black magic thing
 5. After the installation is done type `node main.js`
 6. Follow the instructions and its done!
 
